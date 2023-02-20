@@ -1,0 +1,10 @@
+2023-02-20 01:42:04,559 [INFO] Запрос /api/posts
+2023-02-20 01:42:04,561 [INFO] Test test_api_all_posts: Posts API loaded
+2023-02-20 01:42:04,562 [INFO] Тип полученных данных: <class 'list'>
+2023-02-20 01:42:04,562 [INFO] Test test_api_all_posts: Response structure is correct
+
+2023-02-20 01:42:04,564 [INFO] Запрос /api/posts/1
+2023-02-20 01:42:04,565 [INFO] Test test_api_post: Unique post loaded
+2023-02-20 01:42:04,565 [INFO] Тип полученных данных: <class 'dict'>
+2023-02-20 01:42:04,565 [INFO] Test test_api_post: Response structure is correct
+
